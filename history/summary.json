@@ -5,18 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/uwu.so.ico",
     "slug": "uwu-so",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 639,
-    "timeDay": 668,
-    "timeWeek": 606,
-    "timeMonth": 639,
-    "timeYear": 639,
-    "dailyMinutesDown": {
-      "2024-03-09": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 613,
+    "timeDay": 583,
+    "timeWeek": 591,
+    "timeMonth": 613,
+    "timeYear": 613,
+    "dailyMinutesDown": {}
   }
 ]
