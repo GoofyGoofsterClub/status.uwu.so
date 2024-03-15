@@ -4,19 +4,19 @@
     "url": "https://uwu.so",
     "icon": "https://icons.duckduckgo.com/ip3/uwu.so.ico",
     "slug": "uwu-so",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 615,
-    "timeDay": 669,
-    "timeWeek": 594,
-    "timeMonth": 615,
-    "timeYear": 615,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 599,
+    "timeDay": 327,
+    "timeWeek": 565,
+    "timeMonth": 599,
+    "timeYear": 599,
     "dailyMinutesDown": {
-      "2024-03-15": 0
+      "2024-03-15": 8
     }
   }
 ]
