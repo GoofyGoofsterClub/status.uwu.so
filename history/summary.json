@@ -4,7 +4,7 @@
     "url": "https://uwu.so",
     "icon": "https://icons.duckduckgo.com/ip3/uwu.so.ico",
     "slug": "uwu-so",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 594,
     "timeMonth": 615,
     "timeYear": 615,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-15": 0
+    }
   }
 ]
