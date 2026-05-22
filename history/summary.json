@@ -6,15 +6,15 @@
     "slug": "uwu-so",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "80.86%",
+    "uptimeDay": "96.46%",
     "uptimeWeek": "96.28%",
     "uptimeMonth": "98.10%",
     "uptimeYear": "99.67%",
-    "time": 528,
-    "timeDay": 398,
-    "timeWeek": 426,
+    "time": 527,
+    "timeDay": 311,
+    "timeWeek": 394,
     "timeMonth": 446,
-    "timeYear": 505,
+    "timeYear": 504,
     "dailyMinutesDown": {
       "2026-05-21": 276,
       "2026-05-18": 94,
@@ -35,8 +35,7 @@
       "2025-10-21": 23,
       "2025-09-07": 44,
       "2025-09-06": 5,
-      "2025-05-23": 20,
-      "2025-05-22": 11
+      "2025-05-23": 20
     }
   }
 ]
