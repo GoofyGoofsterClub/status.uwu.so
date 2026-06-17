@@ -4,7 +4,7 @@
     "url": "https://uwu.so",
     "icon": "https://icons.duckduckgo.com/ip3/uwu.so.ico",
     "slug": "uwu-so",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.41%",
@@ -36,7 +36,8 @@
       "2026-05-17": 6,
       "2026-05-21": 276,
       "2026-06-11": 84,
-      "2026-06-15": 278
+      "2026-06-15": 278,
+      "2026-06-17": 0
     }
   }
 ]
